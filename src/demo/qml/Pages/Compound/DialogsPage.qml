@@ -29,6 +29,11 @@ Item {
             text: qsTr("Input")
             onClicked: input.open()
         }
+
+        Button {
+            text: qsTr("DatePickerDialog")
+            onClicked: datePickerDialog.open()
+        }
     }
 
     FluidControls.AlertDialog {
@@ -52,5 +57,9 @@ Item {
         text: qsTr("We need to know in what year you were born in order to verify your age.")
         textField.inputMask: "9999"
         textField.placeholderText: qsTr("Type a 4 digits number")
+    }
+
+    FluidControls.DatePicker {
+        id: datePickerDialog
     }
 }

@@ -10,6 +10,7 @@ BodyLabel 1.0 BodyLabel.qml
 CaptionLabel 1.0 CaptionLabel.qml
 Card 1.0 Card.qml
 CircleImage 1.0 CircleImage.qml
+DatePicker 1.0 DatePicker.qml
 DialogLabel 1.0 DialogLabel.qml
 DisplayLabel 1.0 DisplayLabel.qml
 HeadlineLabel 1.0 HeadlineLabel.qml

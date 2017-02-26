@@ -9,6 +9,7 @@
         <file>CaptionLabel.qml</file>
         <file>Card.qml</file>
         <file>CircleImage.qml</file>
+        <file>DatePicker.qml</file>
         <file>DialogLabel.qml</file>
         <file>DisplayLabel.qml</file>
         <file>HeadlineLabel.qml</file>
