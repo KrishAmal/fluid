@@ -24,6 +24,7 @@ Project {
         "src/deployment.qbs",
         "src/demo/demo.qbs",
         "src/fluid/fluid.qbs",
+        "src/fluidtemplates/fluidtemplates.qbs",
         "src/imports/imports.qbs",
         "tests/auto/auto.qbs",
     ]
