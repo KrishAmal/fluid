@@ -1,0 +1,4 @@
+module Fluid.Templates
+plugin fluidtemplatesplugin
+class FluidTemplatesPlugin
+typeinfo plugins.qmltypes
